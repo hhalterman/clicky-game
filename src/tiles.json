@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Sabrina",
+      "image": "https://amp.thisisinsider.com/images/5c8faf11dd08613fa16c0214-750-563.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Harvey",
+      "image": "https://imgix.bustle.com/uploads/image/2018/9/17/1eb58f80-997e-4b0c-8ac2-61ff5540e1c4-cas_101_unit_00396r4.jpg?w=646&fit=max&auto=format&q=70",
+        "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Prudence",
+      "image": "https://nypdecider.files.wordpress.com/2018/11/prudence-take-2.jpg?quality=90&strip=all&w=646&h=431&crop=1",
+        "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Hilda",
+      "image": "https://imgix.bustle.com/uploads/image/2018/9/17/b770a345-bc33-4eb0-ab34-12d3e388d6ed-cas_107_unit_00984r.jpg?w=646&fit=max&auto=format&q=70",
+        "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Zelda",
+      "image": "https://imgix.bustle.com/uploads/image/2018/9/17/f5ec5187-d4f3-4662-8dc2-548da672ec8c-cas_101_unit_00741r.jpg?w=646&fit=max&auto=format&q=70",
+        "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Father Blackwood",
+      "image": "https://imgix.bustle.com/uploads/image/2018/9/17/a6a101e0-ad7b-478f-8800-faadd10b6c2b-cas_102_unit_00808r.jpg?w=646&fit=max&auto=format&q=70",
+        "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Nicholas Scratch",
+      "image": "https://imgix.bustle.com/uploads/image/2018/9/17/4cceaa96-3442-4f88-9113-ed8a47719c58-cas_104_unit_01039r.jpg?w=646&fit=max&auto=format&q=70",
+        "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Wardwell",
+      "image": "https://younghollywood.com/images/stories/madamsatan.jpg",
+        "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Ambrose",
+      "image": "https://s1.r29static.com//bin/entry/4a2/720x864,85/2055402/image.webp",
+        "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Rosalind",
+      "image": "https://heavyeditorial.files.wordpress.com/2018/10/sabrina-rosalind.jpg?quality=65&strip=all&w=780",
+        "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Susie",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHtVOtDEpQFMcQDw2gGsTT25H0qgM4FGF7XJKYQc-OgE3lsDr",
+        "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Agatha & Dorcas",
+      "image": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2018/11/CAS_108_Unit_00471R.jpg",
+        "clicked": false
+    }
+]
+  
